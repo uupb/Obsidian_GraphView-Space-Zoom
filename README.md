@@ -1,6 +1,9 @@
 # Obsidian_GraphView-Space-Zoom
 Sets the background of graph view as space effect with a slow zoom on an SVG stars svg 1 is Bubbles while 2 looks kind of like Dots
 
+Got some inspiration from:
+
+https://forum.obsidian.md/t/graph-view-constellations-custom-css-mockup/795/6
 
 
 ## Features:
